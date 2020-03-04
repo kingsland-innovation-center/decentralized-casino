@@ -1,0 +1,4 @@
+node_modules
+build
+src/contracts/*
+!src/contracts/ReadMe.md
