@@ -21,7 +21,7 @@ contract Casino is usingProvable {
     }
 
     function __callback(
-        bytes32 _queryID,
+        bytes32 _queryId,
         string memory _result,
         bytes memory _proof
     ) public {
@@ -36,7 +36,7 @@ contract Casino is usingProvable {
         // TODO: Implementation
     }
 
-    function getContractBalance() public view returns(uint256 balance) {
+    function getContractBalance() public view returns (uint256 balance) {
         // TODO: Implementation
     }
 }
