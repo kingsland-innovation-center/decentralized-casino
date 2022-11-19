@@ -10,7 +10,7 @@
     "@truffle/hdwallet-provider": "^1.0.32",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "web3": "^1.2.6"
   },
   "scripts": {
